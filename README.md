@@ -35,9 +35,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 You can reach me via email at [example@gmail.com](mailto:example@gmail.com) or connect with me on my social media profiles:
 
-- [Facebook](https://www.facebook.com/A.Fathi)
-- [Twitter](https://twitter.com/A.Fathi)
-- [LinkedIn](https://www.linkedin.com/in/A.Fathi/)
-- [YouTube](https://www.youtube.com/@A.Fathi)
+- [LinkedIn](https://www.linkedin.com/in/abdelrahman-fathi-55ab16308)
 
 Thank you for visiting my portfolio!
