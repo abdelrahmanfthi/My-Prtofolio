@@ -33,7 +33,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-You can reach me via email at [example@gmail.com](mailto:example@gmail.com) or connect with me on my social media profiles:
+You can reach me via email at (bdalrhmnfthy000@gmail.com) or connect with me on my social media profiles:
 
 - [LinkedIn](https://www.linkedin.com/in/abdelrahman-fathi-55ab16308)
 
